@@ -7,7 +7,7 @@ If you've made it this far, you're probably lost or you have an interest for
 search engine leads you here (which is very unlikely given the number of
 results that surely should come before this page).
 
-In the later case, you'll surely find something better elsewhere ;-)
+In the later case, you'll surely find something better elsewhere ☺️.
 
 Nevertheless, if you're still here, welcome and here's how to use this library.
 
