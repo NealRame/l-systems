@@ -1,9 +1,9 @@
-# l-system
+# l-systems
 
 A toy project I'm using to develop the workflow for my portfolio site.
 
 If you've made it this far, you're probably lost or you have an interest for
-[_LSystems_](https://en.wikipedia.org/wiki/L-system) and that some sort of
+[_L-systems_](https://en.wikipedia.org/wiki/L-system) and that some sort of
 search engine leads you here (which is very unlikely given the number of
 results that surely should come before this page).
 
